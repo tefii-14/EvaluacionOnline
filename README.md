@@ -1,6 +1,6 @@
 # Acerca de esta App
 ## Plantilla: AdminLTE + PHP Core
-### Desarrollado por Jhon Francia Minaya
+### Desarrollado por Andrea Ortiz y Deyanira Arias
 
 Esta plantilla ha sido administrada utilizando **código backend** PHP
 Tecnologías utilizadas:
