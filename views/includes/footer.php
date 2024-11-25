@@ -12,7 +12,7 @@
  <footer class="main-footer">
    <!-- To the right -->
    <div class="float-right d-none d-sm-inline">
-     Desarrollado por JEFM
+     Desarrollado por AOYDA
    </div>
    <!-- Default to the left -->
    Todos los derechos reservados - <a href="#">Más información</a>
